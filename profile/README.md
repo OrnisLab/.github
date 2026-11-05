@@ -67,7 +67,7 @@ Each card opens the repositories in that domain.
 - **Built on open standards.** We work with formats the security community already shares, such as MITRE ATT&CK, Sigma, STIX/TAXII and CVE/CVSS, and contribute back where we can.
 - **Clear about status.** Each repository says whether it is experimental, beta or stable, what it supports and where to get help.
 
-## Get involved
+## Be part of our team
 
 - **Found a bug or have an idea?** Open an issue in the project’s repository.
 - **Want to contribute?** Start with the [contributing guide](https://github.com/OrnisLab/.github/blob/main/CONTRIBUTING.md). Issues labeled `good first issue` are a good place to begin.
