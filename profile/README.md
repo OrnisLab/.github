@@ -14,8 +14,6 @@
 
 **OrnisLab** is the open-source security organization of [İşNet](https://www.isnet.net.tr), the İstanbul-based technology company of the Türkiye İş Bankası group. The teams that build the **Ornis** cybersecurity product family publish their open-source tools, detection content and integrations here. The work covers SOC and detection engineering, SOAR, managed detection and response (MDR), vulnerability and exposure management, and cyber threat intelligence (CTI).
 
-The name stands for **O**pen **R**esearch **N**etwork for **I**ntelligent **S**ecurity. *Ornis* is also the Greek word for “bird”, and birds in flight are the emblem of the Ornis family.
-
 OrnisLab publishes two kinds of projects:
 
 - **Tools from the Ornis products.** Components and utilities that came out of building Ornis Guard, Ornis Vista and Ornis Recon.
