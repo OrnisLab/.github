@@ -37,7 +37,7 @@ OrnisLab publishes two kinds of projects:
 </p>
 <p>
   <a href="https://github.com/search?q=org%3AOrnisLab+topic%3Aornis-recon&type=repositories"><img alt="Ornis Recon domain: cyber threat intelligence. Collectors, enrichment and IOC pipelines that turn raw feeds into actionable intelligence, from Ornis Recon." src="https://raw.githubusercontent.com/OrnisLab/.github/main/profile/assets/card-recon-light.svg" width="49%"></a>
-  <a href="https://github.com/search?q=org%3AOrnisLab+topic%3Aornis-secops&type=repositories"><img alt="SecOps domain: open source in our SOC. The open-source stack behind Ornis’s SOC, shared with our configs, integrations and playbooks." src="https://raw.githubusercontent.com/OrnisLab/.github/main/profile/assets/card-secops-light.svg" width="49%"></a>
+  <a href="https://github.com/search?q=org%3AOrnisLab+topic%3Aornis-secops&type=repositories"><img alt="SecOps domain: open source in our SOC. The open-source stack behind İşNet’s SOC, shared with our configs, integrations and playbooks." src="https://raw.githubusercontent.com/OrnisLab/.github/main/profile/assets/card-secops-light.svg" width="49%"></a>
 </p>
 
 Each card opens the repositories in that domain. Every OrnisLab repository carries the GitHub topic of its domain:
@@ -47,7 +47,7 @@ Each card opens the repositories in that domain. Every OrnisLab repository carri
 | **SOC, SOAR and MDR** | Detection rules, SOAR playbooks and alert triage tools for running managed detection and response | Ornis Guard | [`ornis-guard`](https://github.com/topics/ornis-guard) |
 | **Vulnerability and exposure management** | Asset discovery, scan orchestration and exposure reporting utilities | Ornis Vista | [`ornis-vista`](https://github.com/topics/ornis-vista) |
 | **Cyber threat intelligence** | Feed collectors, enrichment and indicator of compromise (IOC) pipelines | Ornis Recon | [`ornis-recon`](https://github.com/topics/ornis-recon) |
-| **SecOps** | Configurations, integrations and playbooks for the open-source tools | Ornis SecOps | [`ornis-secops`](https://github.com/topics/ornis-secops) |
+| **SecOps** | Configurations, integrations and playbooks for the open-source tools | SecOps | [`ornis-secops`](https://github.com/topics/ornis-secops) |
 
 ## Projects
 
